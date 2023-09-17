@@ -1,4 +1,4 @@
- 
+  
 # cloud-build-kube-ci-cd
 Node js application:
 Running it manually on google cloud shell
